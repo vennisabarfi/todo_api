@@ -1,6 +1,4 @@
-Absolutely, here's a more detailed README for your Todo List API, including information about the programming languages and frameworks used:
 
----
 
 # Todo List API
 
