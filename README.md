@@ -20,7 +20,7 @@ This is a RESTful API for managing tasks in a todo list. It's built using Node.j
 1. Clone the repository:
 
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/vennisabarfi/todo_api>
     ```
 
 2. Install dependencies:
